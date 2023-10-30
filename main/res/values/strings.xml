@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="input_a">Input a</string>
+    <string name="input_b">Input b</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="result">Result=</string>
+    <string name="edt_result">Result</string>
+    <string name="calculate_title">Calculate</string>
+    <string name="calculate">Calculate</string>
+    <string name="choose_operator">Choose operator</string>
+</resources>

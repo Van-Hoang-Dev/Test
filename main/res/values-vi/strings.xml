@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="input_a">Nhập số a</string>
+    <string name="input_b">Nhập số b</string>
+    <string name="btn_calculate">Tính</string>
+    <string name="result">Kết quả</string>
+    <string name="edt_result">Kết quả</string>
+    <string name="calculate_title">Máy Tính</string>
+    <string name="calculate">Máy Trính</string>
+    <string name="choose_operator">Chọn phép tính</string>
+</resources>
